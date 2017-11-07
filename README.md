@@ -4,7 +4,7 @@ Simple ToDo list example using Node.js-express.js, EJS, MongoDB, Mongoose :+1:
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.:heart:
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. :heart:
 
 ### Prerequisites
 
