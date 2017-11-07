@@ -72,5 +72,5 @@ app.delete('/todo/:id', function(req, res) {
 });
 
 app.listen(3000, function(){
-	console.log("Todo in Rining On port 3000");
+	console.log("Todo in Runing On port 3000");
 });
