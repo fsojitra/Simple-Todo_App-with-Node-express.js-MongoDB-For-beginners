@@ -22,7 +22,6 @@
 					data: $('#form1').serialize(),
 					dataType: "json",
 					success: function(response){
-                    console.log(response);
                      $('#form1')[0].reset();
                      Show();
                    // alert('asssaaa');
@@ -37,7 +36,6 @@
 				
 				var rowEl = $(this).closest('tr');
 				var id = rowEl.find('.id').text();
-				console.log("id"+id);
 				$.ajax({
 					url: '/todo/' + id,
 					method: 'DELETE',
@@ -58,7 +56,6 @@
            	url: '/show',
            	dataType: "json",
            	success: function(response){
-           		console.log(response);
            		var tbodyEl = $('tbody');
 
            		tbodyEl.html('');
