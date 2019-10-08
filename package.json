@@ -13,8 +13,8 @@
   "author": "Foram Sojitra",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^2.5.7",
+    "ejs": "^2.7.1",
     "express.js": "^1.0.0",
-    "mongoose": "^4.13.0"
+    "mongoose": "^4.13.19"
   }
 }
