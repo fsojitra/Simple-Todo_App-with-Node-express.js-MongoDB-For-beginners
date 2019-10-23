@@ -15,6 +15,6 @@
   "dependencies": {
     "ejs": "^2.7.1",
     "express.js": "^1.0.0",
-    "mongoose": "^4.13.19"
+    "mongoose": "^5.7.6"
   }
 }
